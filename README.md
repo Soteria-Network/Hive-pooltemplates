@@ -22,6 +22,7 @@ If you want your pool to be listed here then create yourpool.json and push it, w
 
 ## Miners
 Available miners:
+- ccminer-soteria - miner for mining SOTER coin on SoterG algorithm (GPU)
 - astrominer - miner for mining DERO coin on AstroBWTv3 algorithm (CPU)
 - beamcl - open source BEAM OpenCL miner
 - beamcuda - open source BEAM CUDA miner
