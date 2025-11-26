@@ -1,0 +1,21 @@
+{
+    "full_name": "ccminer-soteria",
+    "for_amd": true,
+    "for_nvidia": true,
+    "for_cpu": false,
+    "for_asic": false,
+    "for_intel": false,
+    "dual": false,
+    "ssl_prefix": "",
+    "default_algo": "soterg",
+    "default_fork": null,
+    "default_units": "khs",
+    "algos": {
+        "soterg": "SoterG (Soteria)"
+    },
+    "dalgos": [],
+    "algomap": {
+        "soter":      "soterg"
+    },
+    "forks": [ ]
+}
